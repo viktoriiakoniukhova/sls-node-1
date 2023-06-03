@@ -1,0 +1,13 @@
+{
+  "name": "cli-sort",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Viktoriia Koniukhova",
+  "license": "ISC",
+  "bin": {
+    "mycli": "./bin/index.js"
+  }
+}
