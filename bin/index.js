@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //hello 10 Usage mushroom 33 -1 trash 2229 mustard juice
 
 const rl = require("readline").createInterface({
