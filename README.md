@@ -3,6 +3,7 @@ CLI: Interactive sort.
 
 Prerequisites: Node.js, npm installed.
 
-To run this script:
-1. Install package globally by command "npm i -g sls-node-1".
-2. Run script by command "sortcli".
+To run script globally:
+1. Open "sls-node-1" folder.
+2. Install package globally by command "npm i -g .".
+3. Run script from anywhere by command "sortcli".
